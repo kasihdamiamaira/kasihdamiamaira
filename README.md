@@ -3,14 +3,18 @@
 <!--
 **kasihdamiamaira/kasihdamiamaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+Hi! my name is Kasih Damia Maira Binti Mahadzir.
+I am a Computer Science (computer network and security) in Universiti Teknologi Malaysia (UTM). Previously completed Foundation Studies before continuing my degree. My goals is to become cybersecurity analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Basic programming (C++)
+- Teamwork and communication
+- Problem solving
+
+## Professional interest
+- Information technology
+
+## Learning goals
+- Improve my programming skills
+- Build projects to strengthen my portfolio
